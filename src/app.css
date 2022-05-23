@@ -46,6 +46,10 @@
   gap: 20px;
 }
 
+.field label{
+  font-size: 16px;
+}
+
 .field input{
   padding: 8px;
   outline: none;
