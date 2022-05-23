@@ -1,14 +1,11 @@
 import React from 'react';
-import ChartData from './Components/Chart-Data';
-import Login from './Components/Login';
-import './App.css';
+import ChartData from './components/chart-data';
+import Login from './components/login';
+import './app.css';
 import {
     BrowserRouter ,
-    Router,
-    Switch,
     Routes,
     Route,
-    Link
 } from "react-router-dom";
 
 function RouterPage() {

@@ -1,6 +1,6 @@
 import React from 'react';
-import BarChart from './BarChart';
-import '../App.css';
+import BarChart from './barchart';
+import '../app.css';
 
 const data = [
   {year: 1980, efficiency: 24.3, sales: 8949000},

@@ -1,4 +1,4 @@
-import { useD3 } from '../Components/hooks/useD3';
+import { useD3 } from '../components/hooks/useD3';
 import React from 'react';
 import * as d3 from 'd3';
 
